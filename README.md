@@ -1,2 +1,2 @@
 # kindhy-
-Just happy
+Just another repository
